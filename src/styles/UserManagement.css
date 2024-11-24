@@ -1,0 +1,14 @@
+.user-cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px; /* Space between cards */
+}
+
+.user-card {
+    background-color: #ffffff; /* White background for cards */
+    border: 1px solid #dee2e6; /* Light border */
+    border-radius: 5px; /* Rounded corners */
+    padding: 15px;
+    width: 200px; /* Fixed width for cards */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+} 
